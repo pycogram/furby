@@ -490,7 +490,7 @@ footer p{
         width: 20%;
     }
     #roadmap img{
-        width: 80%;
+        width: 90%;
     }
     #story div{
         width: 500px;
@@ -499,7 +499,7 @@ footer p{
         background: unset;
     }
     #story div img{
-        width: 300px;
+        width: 250px;
         height: 200px;
     }
     #token div{
